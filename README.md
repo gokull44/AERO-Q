@@ -26,7 +26,7 @@ The system follows a two-stage prediction pipeline where a CNN predicts the RUL 
 
 ## Dataset
 
-The project utilizes the **Aviation Maintenance Dataset** derived from the **National General Aviation Flight Information Database (NGAFID)**. The dataset contains real-world flight sensor measurements, engine operational parameters, maintenance records, and flight metadata. It supports predictive maintenance tasks by providing multivariate time-series data collected from aircraft operations. :contentReference[oaicite:0]{index=0}
+The project utilizes the **Aviation Maintenance Dataset** derived from the ** NASA C-MAPSS sensor data**. The dataset contains real-world flight sensor measurements, engine operational parameters, maintenance records, and flight metadata. It supports predictive maintenance tasks by providing multivariate time-series data collected from aircraft operations. :contentReference[oaicite:0]{index=0}
 
 The preprocessing pipeline includes:
 
